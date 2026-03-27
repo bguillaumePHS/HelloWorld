@@ -1,6 +1,7 @@
 ## LibGDX HelloWorld Example
 
-This code is meant to show the basic structure of coding a videogame in LibGDX. It is targeted at AP Computer Science A students, and thus simplifies a few things. For instance, rather than making the project with the LibGDX [Liftoff tool](https://github.com/libgdx/gdx-liftoff) for managing dependencies with Gradle, we simply include a lib folder with the necessary jar files. Also, when possible, only data types and objects taught in the AP CSA course are used (such as double instead of float, and ArrayList instead of the more efficient LibGDX Array class).
+This code is meant to show the basic structure of coding a videogame in LibGDX. It is targeted at AP Computer Science A students, and thus simplifies a few things. 
+For instance, rather than making the project using the official LibGDX [Liftoff tool](https://github.com/libgdx/gdx-liftoff) for managing dependencies with Gradle, we simply include a lib folder with the necessary jar files. Also, when possible, only data types and objects taught in the AP CSA course are used (such as double instead of float, and ArrayList instead of the more efficient LibGDX Array class).
 
 ## Folder Structure
 
